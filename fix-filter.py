@@ -31,9 +31,7 @@ print(color.green+f".",end='',flush=True)
 sleep(1)
 print(color.green+f".",end='',flush=True)
 sleep(1)
-print(color.yellow+f"    
-      
-      FIX FILTER SCRIPT! ",end='',flush=True)
+print(color.yellow+f" FIX FILTER SCRIPT! ",end='',flush=True)
 sleep(1)
 p="""
 
