@@ -39,7 +39,10 @@ banner = (f"""
  FIX FILTER RUBIKA - DMN HACKER
  v1.0
 """)
-
+for bnr in banner:
+        sys.stdout.write(bnr)
+        sys.stdout.flush()
+        time.sleep(0.009)
 p="""
 
 Enter ID FILTER ACCOUNT BUT NOT (@)
