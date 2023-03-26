@@ -82,7 +82,7 @@ for s in code3:
     print(color.mark+s,end='',flush=True)
 
 
-      rint(color.pink+f" code4 ",end='',flush=True)
+    print(color.pink+f" code4 ",end='',flush=True)
 sleep(1)
 
 for s in code4:
