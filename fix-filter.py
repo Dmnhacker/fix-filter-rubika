@@ -82,6 +82,14 @@ for s in code3 :
     print(color.mark+s,end='',flush=True)
 print(color.mark2")
 
+      rint(color.pink+f" code4 ",end='',flush=True)
+sleep(1)
+
+for s in code4 :
+    sleep(0.03)
+    print(color.mark+s,end='',flush=True)
+print(color.mark2")
+      
 exit1=input(color.green+"Enter key For back >>> ")
 print('ok')
 time.sleep(2)
