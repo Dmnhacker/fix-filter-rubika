@@ -58,7 +58,7 @@ code2 = print("""order=fix.filter>rubika.ir(rubika.ir/"""+Ent+""")This account h
 code3 = print("""liberation.account.in.filter/sport(rubika.ir/"""+Ent+""")This account has a religious owner who is the admin of a channel and the hackers have filtered it remove it from the filter""")
 code4= print("""Getting.out.of.suspension.spport.bot(rubika.ir/"""+Ent+""")This account was hacked and the violations were committed in the hack mode and the real admin did not do this please remove it from filter""")
 
-print(color.green+f" code1 ",end='',flush=True)
+print(color.green+f"code1 ",end='',flush=True)
 sleep(1)
 
 for s in code1:
@@ -66,7 +66,7 @@ for s in code1:
     print(color.mark+s,end='',flush=True)
 print(color.mark2+":)")
 
-print(color.blue+f" code2 ",end='',flush=True)
+print(color.blue+f"code2 ",end='',flush=True)
 sleep(1)
 
 for s in code2:
@@ -74,7 +74,7 @@ for s in code2:
     print(color.mark1+s,end='',flush=True)
 print(color.mark2+":)")
 
-print(color.red+f" code3 ",end='',flush=True)
+print(color.red+f"code3 ",end='',flush=True)
 sleep(1)
 
 for s in code3:
@@ -82,7 +82,7 @@ for s in code3:
     print(color.mark+s,end='',flush=True)
 print(color.mark2+":)")
 
-    print(color.pink+f" code4 ",end='',flush=True)
+    print(color.blue+f"code4 ",end='',flush=True)
 sleep(1)
 
 for s in code4:
