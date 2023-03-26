@@ -59,9 +59,9 @@ for i in p:
 Ent=input(color.pink+'Enter your ID ACCOUNT FOR FIX>>> ')
 
 
-code1 = "fix.filter.rubika.ir(rubika.ir/"""+Ent+""")This account was for a child's study and was filtered by hackers please delete his account Please fix filter this account"
-code2 = "order=fix.filter>rubika.ir(rubika.ir/"""+Ent+""")This account has not been violated, remove it from the filter"
-code3 = "liberation.account.in.filter/sport(rubika.ir/"""+Ent+""")This account has a religious owner who is the admin of a channel and the hackers have filtered it remove it from the filter"
+code1 = ""fix.filter.rubika.ir(rubika.ir/"""+Ent+""")This account was for a child's study and was filtered by hackers please delete his account Please fix filter this account""
+code2 = ""order=fix.filter>rubika.ir(rubika.ir/"""+Ent+""")This account has not been violated, remove it from the filter""
+code3 = ""liberation.account.in.filter/sport(rubika.ir/"""+Ent+""")This account has a religious owner who is the admin of a channel and the hackers have filtered it remove it from the filter""
 
 print(color.green+f"code1 ",end='',flush=True)
 sleep(1)
