@@ -46,7 +46,7 @@ Enter ID FILTER ACCOUNT BUT NOT (@)
 
 
 OK?
-
+"""
 for i in p:
     sleep(0.05)
     print(color.pink+i,end='',flush=True)
