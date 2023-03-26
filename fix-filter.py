@@ -64,7 +64,7 @@ sleep(1)
 for s in code1 :
     sleep(0.03)
     print(color.mark+s,end='',flush=True)
-print(color.mark2")
+print(color.pink")
 
 print(color.blue+f" code2 ",end='',flush=True)
 sleep(1)
@@ -80,7 +80,7 @@ sleep(1)
 for s in code3 :
     sleep(0.03)
     print(color.mark+s,end='',flush=True)
-print(color.mark2")
+print(color.darkblue")
 
       rint(color.pink+f" code4 ",end='',flush=True)
 sleep(1)
@@ -88,7 +88,7 @@ sleep(1)
 for s in code4 :
     sleep(0.03)
     print(color.mark+s,end='',flush=True)
-print(color.mark2")
+print(color.blue")
       
 exit1=input(color.green+"Enter key For back >>> ")
 print('ok')
