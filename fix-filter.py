@@ -64,7 +64,7 @@ sleep(1)
 for s in code1:
     sleep(0.03)
     print(color.mark+s,end='',flush=True)
-print(color.pink+")
+
 
 print(color.blue+f" code2 ",end='',flush=True)
 sleep(1)
