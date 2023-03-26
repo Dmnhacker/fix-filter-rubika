@@ -23,16 +23,23 @@ print(color.green+f".",end='',flush=True)
 sleep(1)
 print(color.green+f".",end='',flush=True)
 sleep(1)
-print(color.green+f".",end='',flush=True)
-sleep(1)
-print(color.green+f".",end='',flush=True)
-sleep(1)
-print(color.green+f".",end='',flush=True)
-sleep(1)
-print(color.green+f".",end='',flush=True)
-sleep(1)
-print(color.yellow+f" FIX FILTER SCRIPT! ",end='',flush=True)
-sleep(1)
+print(f"\033[34m")
+banner = (f"""
+ ⠛⠛⣿⣿⣿⣿⣿⡷⢶⣦⣶⣶⣤⣤⣤⣀⠀⠀⠀
+⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀
+⠀⠀⠀⠉⠉⠉⠙⠻⣿⣿⠿⠿⠛⠛⠛⠻⣿⣿⣇⠀
+⠀⠀⢤⣀⣀⣀⠀⠀⢸⣷⡄⠀ ⣀⣤⣴⣿⣿⣿⣆
+⠀⠀⠀⠀⠹⠏⠀⠀⠀⣿⣧⠀⠹⣿⣿⣿⣿⣿⡿⣿
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠿⠇⢀⣼⣿⣿⠛⢯⡿⡟
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠦⠴⢿⢿⣿⡿⠷⠀⣿⠀
+⠀⠀⠀⠀⠀⠀⠀⠙⣷⣶⣶⣤⣤⣤⣤⣤⣶⣦⠃⠀
+⠀⠀⠀⠀⠀⠀⠀⢐⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀
+⠀⠀⠀⠀  ⠀⠀⠀⠀⠙⠻⢿⣿⣿⣿⣿⠟
+ FIX FILTER RUBIKA - DMN HACKER
+ v1.0
+""")
+
 p="""
 
 Enter ID FILTER ACCOUNT BUT NOT (@)
