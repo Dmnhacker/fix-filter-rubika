@@ -62,7 +62,6 @@ Ent=input(color.pink+'Enter your ID ACCOUNT FOR FIX>>> ')
 code1 = "fix.filter.rubika.ir(rubika.ir/"""+Ent+""")This account was for a child's study and was filtered by hackers please delete his account Please fix filter this account"
 code2 = "order=fix.filter>rubika.ir(rubika.ir/"""+Ent+""")This account has not been violated, remove it from the filter"
 code3 = "liberation.account.in.filter/sport(rubika.ir/"""+Ent+""")This account has a religious owner who is the admin of a channel and the hackers have filtered it remove it from the filter"
-code4 = """Getting.out.of.suspension.spport.bot(rubika.ir/"""+Ent+""")This account was hacked and the violations were committed in the hack mode and the real admin did not do this please remove it from filter"""
 
 print(color.green+f"code1 ",end='',flush=True)
 sleep(1)
@@ -88,14 +87,6 @@ for s in code3:
     print(color.mark+s,end='',flush=True)
 print(color.mark2)
 
-print(color.blue+f"code4 ",end='',flush=True)
-sleep(1)
-
-for s in code4:
-    sleep(0.03)
-    print(color.mark+s,end='',flush=True)
- print(color.blue)
-      
 exit1=input(color.green+"Enter key For back >>> ")
 print('ok')
 time.sleep(2)
