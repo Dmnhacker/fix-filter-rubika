@@ -61,7 +61,7 @@ code4= print("""Getting.out.of.suspension.spport.bot(rubika.ir/"""+Ent+""")This 
 print(color.green+f" code1 ",end='',flush=True)
 sleep(1)
 
-for s in code1 :
+for s in code1:
     sleep(0.03)
     print(color.mark+s,end='',flush=True)
 print(color.pink+")
@@ -69,7 +69,7 @@ print(color.pink+")
 print(color.blue+f" code2 ",end='',flush=True)
 sleep(1)
 
-for s in code2 :
+for s in code2:
     sleep(0.03)
     print(color.mark1+s,end='',flush=True)
 print(color.red+")
@@ -77,7 +77,7 @@ print(color.red+")
 print(color.red+f" code3 ",end='',flush=True)
 sleep(1)
 
-for s in code3 :
+for s in code3:
     sleep(0.03)
     print(color.mark+s,end='',flush=True)
 print(color.darkblue+")
@@ -85,7 +85,7 @@ print(color.darkblue+")
       rint(color.pink+f" code4 ",end='',flush=True)
 sleep(1)
 
-for s in code4 :
+for s in code4:
     sleep(0.03)
     print(color.mark+s,end='',flush=True)
 print(color.blue+")
