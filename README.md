@@ -6,3 +6,7 @@
 `pkg install python`
 `cd fix-filter-rubika`
 `python fix-filter.py`
+# امکانات
+***v1.0***
+ساخت کد با ایدی اکانت 
+دادن چهار کد متنوع
