@@ -74,11 +74,9 @@ for i in yty:
 get = input(color.pink+'inter  number here>>> ')
 
 if get == 1:
-    time.sleep(0.3)
     system("clear")
     system("python code-fix.py")
     
 if get == 2:
-    time.sleep(0.3)
     system("clear")
     system("python code-fix-mini.py")
