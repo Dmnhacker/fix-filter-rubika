@@ -22,8 +22,9 @@ class color:
 print(color.mark+f"WELCOME",end='')
 sleep(1)
 print(f"\033[34m")
-coderize = random.choice(repoestsrub)
+
 repoestsrub = ['Rubika.ir/raf-filter','Rubika.ir/fixing-filter','Rubika.ir/Account-liberation','Rubika.ir/rf-fil-rubuk','Rubika.ir/Please-unfilter-this-account','Rubika.ir/plase-fix-filter-this-account','Rubika.ir/fix-fix-fil','Rubika.ir/fixing-fil','Rubika.ir/moslim-account','Rubika.ir/Religious-account','Rubika.ir/Support-fix-filter','Rubika.ir/This-Account-Undertone-Do-Not','Rubika.ir/This-Account-Mistake-Filtered','Rubika.ir/This-Account-must-fix-Filter','Rubika.ir/Bring-this-account-from-the-sanctuary','Rubika.ir/rf-filtering','Rubika.ir/raf-filter','Rubika.ir/fixing-filter','Rubika.ir/Account-liberation','Rubika.ir/rf-fil-rubuk','Rubika.ir/Please-unfilter-this-account','Rubika.ir/plase-fix-filter-this-account','Rubika.ir/fix-fix-fil','Rubika.ir/fixing-fil','Rubika.ir/moslim-account','Rubika.ir/Religious-account','Rubika.ir/Support-fix-filter','Rubika.ir/This-Account-Undertone-Do-Not','Rubika.ir/This-Account-Mistake-Filtered','Rubika.ir/This-Account-must-fix-Filter','Rubika.ir/Bring-this-account-from-the-sanctuary','Rubika.ir/rf-filtering']
+coderize = random.choice(repoestsrub)
 
 y0y =f"""
 
