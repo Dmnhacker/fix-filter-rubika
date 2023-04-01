@@ -28,7 +28,9 @@ coderize = random.choice(repoestsrub)
 
 y0y =f"""
 
-for give code inter coderize 
+for give code enter 1
+
+OK?
 """
 
 
@@ -36,3 +38,16 @@ for give code inter coderize
 for i in y0y:
     sleep(0.05)
     print(color.pink+i,end='',flush=True)
+    
+gottt=input(color.pink+'Enter coderise >>> ')  
+
+if gottt == 1:
+    print(color.pink+coderise)
+    
+    
+exit1=input(color.green+"Enter key For back >>> ")
+print('ok')
+time.sleep(2)
+system("clear")
+time.sleep(2)
+system("python fix-filter.py")
