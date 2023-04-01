@@ -41,7 +41,7 @@ for i in y0y:
     
 gottt=input(color.pink+'Enter coderise >>> ')  
 
-if gottt == 1:
+if gottt ==1:
     print(color.pink+coderise)
     
     
