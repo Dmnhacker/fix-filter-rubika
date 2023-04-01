@@ -71,7 +71,7 @@ for i in yty:
     sleep(0.05)
     print(color.pink+i,end='',flush=True)
     
-get=input(color.pink+'inter  number here>>> ')
+get = input(color.pink+'inter  number here>>> ')
 
 if get == 1:
     time.sleep(0.3)
@@ -81,4 +81,4 @@ if get == 1:
 if get == 2:
     time.sleep(0.3)
     sistem("clear")
-    sistem("python code-fix-mini.py")
+    sistem(python code-fix-mini.py)
