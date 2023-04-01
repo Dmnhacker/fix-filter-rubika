@@ -71,12 +71,12 @@ for i in yty:
     sleep(0.05)
     print(color.pink+i,end='',flush=True)
     
-get==input(color.pink+'inter  number here>>> ')
+get=input(color.pink+'inter  number here>>> ')
 
-if get == 1:
+if get = 1:
     system("clear")
     system("python code-fix.py")
     
-if get == 2:
+if get = 2:
     system("clear")
     system("python code-fix-mini.py")
