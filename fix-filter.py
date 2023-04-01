@@ -75,10 +75,10 @@ get = input(color.pink+'inter  number here>>> ')
 
 if get == 1:
     time.sleep(0.3)
-    sistem("clear")
-    sistem("python code-fix.py")
+    system("clear")
+    system("python code-fix.py")
     
 if get == 2:
     time.sleep(0.3)
-    sistem("clear")
-    sistem(python code-fix-mini.py)
+    system("clear")
+    system("python code-fix-mini.py")
