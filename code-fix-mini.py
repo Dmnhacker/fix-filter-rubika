@@ -31,6 +31,7 @@ y0y =f"""
 for give code enter 1
 
 OK?
+(ravesh 20 ta sayer baede 2 daghighe 10 ta sayer)
 """
 
 
@@ -42,7 +43,7 @@ for i in y0y:
 gottt=input(color.pink+'Enter coderise >>> ')  
 
 if gottt ==1:
-    print(color.pink+coderise)
+    print(color.pink+coderize)
     
     
 exit1=input(color.green+"Enter key For back >>> ")
